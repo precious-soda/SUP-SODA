@@ -9,14 +9,10 @@
 
 - ⚡ Fun fact **I am a CSS nerd**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sup-soda&" alt="sup-soda" /></p>
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil-kumar-jamwal-73a359169" height="30" width="40" /></a>
-</p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sup-soda&show_icons=true&locale=en&layout=compact" alt="sup-soda" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sup-soda&" alt="sup-soda" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
@@ -34,5 +30,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
+<h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/sahil-kumar-jamwal-73a359169" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil-kumar-jamwal-73a359169" height="30" width="40" /></a>
+</p>
 

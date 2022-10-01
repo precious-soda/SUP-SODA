@@ -1,11 +1,11 @@
-<h1 align="center">Hi :pray:, I'm Sahil Kumar Jamwal</h1>
+<h1 align="center">:wave:, I'm Sahil Kumar Jamwal</h1>
 <h3 align="center">Developer|Designer|Creator</h3>
 
-- 🌱 I’m currently learning **NextJS,AngularJS**
+- :books: I’m currently learning **NextJS,AngularJS**
 
 - 💬 Ask me about **ReactJS,JavaScript,CSS,HTML,SASS**
 
-- 📫 How to reach me **sahilkumarjamwal464@gmail.com**
+- :e-mail: How to reach me **sahilkumarjamwal464@gmail.com**
 
 - ⚡ Fun fact **I am a CSS nerd**
 

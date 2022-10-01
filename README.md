@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sahil Kumar Jamwal</h1>
+<h1 align="center">Hi :pray:, I'm Sahil Kumar Jamwal</h1>
 <h3 align="center">Developer|Designer|Creator</h3>
 
 - 🌱 I’m currently learning **NextJS,AngularJS**

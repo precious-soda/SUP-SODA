@@ -3,11 +3,11 @@
 
 - :books: I’m currently learning **NextJS,AngularJS**
 
-- :question: Ask me about **ReactJS,JavaScript,CSS,HTML,SASS**
+- :thought_balloon: Ask me about **ReactJS, JavaScript, CSS, HTML, SASS**
 
 - :e-mail: How to reach me **sahilkumarjamwal464@gmail.com**
 
-- :grey_exclamation: Fun fact **I am a CSS nerd**
+- :loudspeaker: Fun fact **I am a CSS nerd**
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sup-soda&show_icons=true&locale=en&layout=compact" alt="sup-soda" /></p>

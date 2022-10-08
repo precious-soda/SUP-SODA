@@ -1,13 +1,13 @@
 <h1 align="center">:wave:, I'm Sahil Kumar Jamwal</h1>
 <h3 align="center">Developer :computer: | Designer :art: | Creator :pencil2:</h3>
 
-- :books: I’m currently learning **NextJS,AngularJS**
+- I’m currently learning **NextJS,AngularJS**
 
-- :thought_balloon: Ask me about **ReactJS, JavaScript, CSS, HTML, SASS**
+-  Ask me about **ReactJS, JavaScript, CSS, HTML, SASS**
 
-- :e-mail: How to reach me **sahilkumarjamwal464@gmail.com**
+-  How to reach me **sahilkumarjamwal464@gmail.com**
 
-- :loudspeaker: Fun fact **I am a CSS nerd**
+-  Fun fact **I am a CSS nerd**
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sup-soda&show_icons=true&locale=en&layout=compact" alt="sup-soda" /></p>

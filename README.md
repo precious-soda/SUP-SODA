@@ -1,8 +1,6 @@
 <h1 align="center">:wave:, I'm Sahil Kumar Jamwal</h1>
 <h3 align="center">Developer :computer: | Designer :art: | Creator :pencil2:</h3>
 
-- I’m currently learning **NextJS,AngularJS**
-
 -  Ask me about **ReactJS, JavaScript, CSS, HTML, SASS**
 
 -  How to reach me **sahilkumarjamwal464@gmail.com**

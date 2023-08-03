@@ -6,9 +6,9 @@
 -  Fun fact **I am a CSS nerd**
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sup-soda&show_icons=true&locale=en&layout=compact" alt="sup-soda" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=precious-soda&show_icons=true&locale=en&layout=compact" alt="precious-soda" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sup-soda&" alt="sup-soda" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=precious-soda&" alt="precious-soda" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
